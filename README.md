@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QTrade Support Knowledge Assistant
 
 A lightweight document retrieval and answer generation system for customer support. This repository builds a searchable knowledge base from internal support documents, then uses a local LLM via Ollama to generate grounded answers and identify questions that should be escalated.
@@ -103,3 +104,4 @@ if should_escalate("There is smoke coming from my heater"):
 ## License
 
 Use and modify this project for internal support automation and knowledge retrieval workflows.
+
